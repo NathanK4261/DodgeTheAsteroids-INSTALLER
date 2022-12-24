@@ -12,8 +12,12 @@ to run on your device. If file doesn't run when you double clikc it, follow thes
 
 Install this file, add it to your DESKTOP, and type in these commands from your terminal:
 
-**cd Desktop
-**
-**chmod +x installer.command
-**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+cd Desktop
+
+chmod +x installer.command
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 This will allow installer.command to run as an executable 
