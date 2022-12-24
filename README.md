@@ -8,7 +8,7 @@ This is a .command file, which means it should just run when you double-click it
 to run on your device. If file doesn't run when you double clikc it, follow these instructions below.
 
 
-========================================================================================================================================================================
+=========================================================================================
 Install this file, add it to your DESKTOP, and type in these commands from your terminal:
 
 cd Desktop
